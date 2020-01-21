@@ -7,6 +7,7 @@ hide_from_course_list: false
 course_home: home
 page-inject:
     processed_content: true
+redirect: '/fol2020/home'
 ---
 
 [plugin:content-inject](home/_important-reminders)
