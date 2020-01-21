@@ -5,7 +5,7 @@ visible: true
 hide_page_title: false
 ---
 
-### 👩‍💻Developing and Sharing Open Resources with Grav
+### 👩‍💻Developing and Sharing Open Educational Resources with Grav
 
 #### Keywords
 Markdown Git GravCMS
