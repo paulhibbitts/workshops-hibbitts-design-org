@@ -1,15 +1,7 @@
 ---
 title: 'Resources'
 published: true
-visible: true
-hide_page_title: true
 ---
-# Workshop Resources
-
-* [Markdown](#markdown)
-* [Grav CMS](#grav-cms)
-* [Git and Git Services](#git-and-git-services)
-* [GitHub Desktop](#github-desktop)
 
 ## Markdown
 
