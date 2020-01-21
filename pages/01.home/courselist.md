@@ -1,8 +1,11 @@
 ---
 title: Home
-visible: false
-show_sidebar: false
 hide_page_title: true
+show_sidebar: false
+hide_git_sync_repo_link: false
+visible: false
+card_width: '5'
 anchors:
     active: false
 ---
+
