@@ -1,6 +1,8 @@
 ---
-title: 'Slides'
+title: Slides
 published: true
+show_sidebar: true
+hide_git_sync_repo_link: true
 visible: false
 ---
 
