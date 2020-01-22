@@ -1,5 +1,6 @@
 ---
-title: '2020 Festival of Learning'
+title: 'Festival of Learning'
+session_list_title: '2020 Festival of Learning'
 session_list_description: 'Developing and Sharing Open Educational Resources with Grav'
 hide_from_session_list: false
 session_home: home
