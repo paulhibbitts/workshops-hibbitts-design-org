@@ -2,7 +2,7 @@
 title: 'Festival of Learning'
 subsite_list_title: '2020 Festival of Learning'
 subsite_list_description: 'Developing and Sharing Open Educational Resources with Grav'
-hide_from_subsite_list: true
+hide_from_subsite_list: false
 subsite_home: home
 published: true
 hide_page_title: false
