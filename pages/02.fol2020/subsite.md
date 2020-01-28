@@ -7,7 +7,7 @@ subsite_home: home
 published: true
 hide_page_title: false
 show_sidebar: true
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 redirect: /fol2020/home
 visible: false
 page-inject:
