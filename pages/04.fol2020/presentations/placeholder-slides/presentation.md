@@ -24,9 +24,11 @@ title: Developing and Sharing OER with Grav
 ---
 
 # Topics to Explore
-1. Topic One  
-2. Topic Two   
-3. Topic Three  
+1. What is Grav?
+2. Why is Grav OER Friendly?
+3. Markdown
+4. GitHub and GitHub Desktop
+5. Grav Skeleton Packages
 
 ---
 
