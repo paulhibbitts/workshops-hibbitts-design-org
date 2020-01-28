@@ -86,6 +86,31 @@ title: Developing and Sharing OER with Grav
 
 ---
 
+# What is Markdown?
+
+Markdown is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
+
+---
+
+# Markdown Examples
+
+`# Your H1 Text Here`  
+`## Your H2 Text Here`  
+`_your italic text here_`  
+`**your bold text here**`  
+`* your unordered list item here`  
+`1. your numbered (and indented) list item here`  
+`[link title](www.google.com)`  
+
+Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
+
+---
+
+[data-background-iframe="https://stackedit.io/"]
+[data-background-interactive]
+
+---
+
 [.background-color: #618B25]
 
 # _GitHub and GitHub Desktop_
