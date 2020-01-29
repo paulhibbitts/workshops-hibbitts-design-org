@@ -3,6 +3,14 @@ title: 'Resources'
 published: true
 ---
 
+* [OER, Markdown and Git](#oer-markdown-and-git)
+* [Markdown](#markdown#grav-cms)
+* [Grav CMS](#grav-cms)
+* [Git and Git Services](#git-and-git-services)
+* [GitHub Desktop](#github-desktop)
+
+***
+
 ## OER, Markdown and Git
 
 * [Addressing the Technical Challenges of Open Educational Resources](https://muse.jhu.edu/article/715616)
@@ -11,6 +19,8 @@ published: true
 * [Scholarly Version Control, Community, & Method Tracking with Git Hosting Platforms (GHPS)](https://investigating-archiving-git.gitlab.io/updates/git-hosting-platforms-in-scholarship/)
 * [OER on GitHub What, Why, & How](https://evanwill.github.io/make-oer/)
 * [OER via Markdown](http://codytaylor.cc/)
+
+***
 
 ## Markdown
 
@@ -32,11 +42,15 @@ published: true
 * [Deckset (Mac app)](https://www.deckset.com/)
 * [Grav Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation)
 
+***
+
 ## Grav CMS
 
 ### Guides and Tutorials
 * [Documentation](https://learn.getgrav.org/16)
 * [Installation & Setup Problems](http://learn.getgrav.org/basics/installation#installation-setup-problems)
+
+***
 
 ## Git and Git Services
 
@@ -54,6 +68,8 @@ published: true
 
 ### Introduction - Git and GitHub for Poets
 [plugin:youtube](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
+***
 
 ## GitHub Desktop
 
