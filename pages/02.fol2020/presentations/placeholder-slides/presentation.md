@@ -137,6 +137,17 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
+# Markdown + Git 👉 Support for OER 5Rs
+
+1. Retain – the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
+1. Reuse – the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+1. Revise – the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+1. Remix – the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+1. Redistribute – the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+
+---
+
+
 [.background-color: #618B25]
 
 # _Grav Skeleton Packages_
