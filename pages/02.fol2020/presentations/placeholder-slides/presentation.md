@@ -154,6 +154,11 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
+[data-background-iframe="https://getgrav.org/downloads/skeletons"]
+[data-background-interactive]
+
+---
+
 [.background-color: #618B25]
 
 # _Next Steps_
