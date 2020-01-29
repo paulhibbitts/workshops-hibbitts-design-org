@@ -12,7 +12,7 @@ redirect: /fol2020/home
 visible: false
 page-inject:
     processed_content: true
-navbar_bg_color: '#A29E91'
+navbar_bg_color: '#6C88B0'
 ---
 
 [plugin:content-inject](home/_important-reminders)
