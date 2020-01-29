@@ -62,8 +62,8 @@ title: Developing and Sharing OER with Grav
 
 * File-based
  * Fast performance (esp. smaller sites), simplicity, portability and generally more secure
- * File-based content also naturally supports version control
- * Grav can also be a front-end for any collaborative Git repository
+ * File-based content naturally supports version control
+ * Front-end for a collaborative Git repository
 * Markdown
  * A platform-independent format perfect for writing and the 5Rs
 * Modular
