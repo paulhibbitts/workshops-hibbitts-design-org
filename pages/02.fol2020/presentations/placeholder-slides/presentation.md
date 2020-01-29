@@ -85,8 +85,8 @@ title: Developing and Sharing OER with Grav
 
 ## Why is Grav OER Friendly?
 
-* Markdown
-* Git (e.g. GitHub)
+* Markdown (ecosystem)
+* Git (workflows)
 
 ---
 
@@ -121,13 +121,13 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 
 [.background-color: #618B25]
 
-# _Git (e.g. GitHub)_
+# _Git_
 
 ---
 
 # What is Git (e.g. GitHub)?
 
-Markdown is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
+Git is a distributed version-control system for tracking file changes during software development
 
 ---
 
