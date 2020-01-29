@@ -1,5 +1,6 @@
 ---
 title: Developing and Sharing OER with Grav
+
 ---
 
 [.text: alignment(center)]
@@ -94,13 +95,16 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 
 # Markdown Examples
 
-`# Your H1 Text Here`  
-`## Your H2 Text Here`  
-`_your italic text here_`  
-`**your bold text here**`  
-`* your unordered list item here`  
-`1. your numbered (and indented) list item here`  
-`[link title](www.google.com)`  
+```
+# Your H1 Text Here   
+## Your H2 Text Here  
+_your italic text here_  
+**your bold text here**  
+* your unordered list item here  
+1. your numbered (and indented) list item here  
+[link title](www.google.com)
+
+```
 
 Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
 
