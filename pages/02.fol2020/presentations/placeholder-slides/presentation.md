@@ -137,7 +137,7 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
-# Markdown + Git 👉 Support for OER 5Rs
+# Markdown + Git 👉 Support of the 5Rs of OER
 
 1. Retain – the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
 1. Reuse – the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
