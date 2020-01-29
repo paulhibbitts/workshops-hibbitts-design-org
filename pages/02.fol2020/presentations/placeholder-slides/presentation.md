@@ -85,6 +85,7 @@ title: Developing and Sharing OER with Grav
 
 * Markdown
 * Git (e.g. GitHub)
+
 ---
 
 [.background-color: #618B25]
