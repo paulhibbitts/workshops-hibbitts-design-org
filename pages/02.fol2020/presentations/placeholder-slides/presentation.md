@@ -81,6 +81,8 @@ title: Developing and Sharing OER with Grav
 
 ---
 
+[.build-lists: true]
+
 ## Why is Grav OER Friendly?
 
 * Markdown
