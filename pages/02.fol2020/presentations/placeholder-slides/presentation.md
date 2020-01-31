@@ -139,11 +139,13 @@ Git is a distributed version-control system for tracking file changes during sof
 
 # Markdown + Git 👉 Support of the 5Rs of OER
 
-1. Retain – the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
-1. Reuse – the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
-1. Revise – the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
-1. Remix – the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
-1. Redistribute – the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+1. Retain - make, own, and control a copy of the resource (e.g., download and keep your own copy)
+1. Revise - edit, adapt, and modify your copy of the resource (e.g., translate into another language)
+1. Remix - combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mashup)
+1. Reuse - use your original, revised, or remixed copy of the resource publicly (e.g., on a website, in a presentation, in a class)
+1. Redistribute - share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
+
+5R Definition: [opencontent.org/definition/](https://opencontent.org/definition/)
 
 ---
 
