@@ -44,6 +44,11 @@ published: true
 * [Deckset (Mac app)](https://www.deckset.com/)
 * [Grav Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation)
 
+### Markdown Convertors
+
+* [Pandoc](https://pandoc.org/)
+* [University of Oklahoma Libraries Markdown Converter (based on Pandoc)](https://tools.libraries.ou.edu/markdown)
+
 ***
 
 ## Grav CMS
