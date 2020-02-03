@@ -58,7 +58,7 @@ title: Developing and Sharing OER with Grav
 
 ---
 
-# Key Aspects of grav
+# Key Aspects of Grav
 
 * File-based
  * Fast performance (esp. smaller sites), simplicity, portability and generally more secure
