@@ -75,6 +75,17 @@ title: Developing and Sharing OER with Grav
 
 ---
 
+# What Skills are Required?
+
+* Code editor usage (e.g. Atom or Brackets)
+* Markdown or HTML basics
+* Understanding folder hierarchies (i.e. relative links)
+* Web server access
+* GitHub working knowledge (recommended)
+
+---
+
+
 [.background-color: #618B25]
 
 # _Why is Grav OER Friendly?_
