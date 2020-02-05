@@ -197,6 +197,13 @@ GitHub, and other Web services like GitLab, Gitea, BitBucket etc. all use Git be
 
 ---
 
+[.background-color: #FFFFFF]
+
+![fit](https://guides.github.com/activities/hello-world/branching.png)
+
+---
+
+
 # GitHub Desktop
 
 [.background-color: #FFFFFF]
