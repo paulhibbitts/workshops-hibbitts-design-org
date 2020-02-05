@@ -102,8 +102,8 @@ title: Developing and Sharing OER with Grav
 
 ## Why is Grav OER Friendly?
 
-* Markdown (ecosystem)
-* Git (workflows)
+* Markdown
+* Git
 
 ---
 
@@ -165,7 +165,6 @@ Git is a distributed version-control system for tracking file changes during sof
 5R Definition: [opencontent.org/definition/](https://opencontent.org/definition/)
 
 ---
-
 
 [.background-color: #618B25]
 
