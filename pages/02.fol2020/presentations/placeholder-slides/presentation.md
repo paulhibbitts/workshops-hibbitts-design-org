@@ -75,14 +75,19 @@ title: Developing and Sharing OER with Grav
 
 ---
 
+# Intended Audience
+
+* Tech-savvy Content Editors
+
+---
+
 # What Skills are Required?
 
-* Intended for 'Tech-savvy' Educators and Publishers
- * Code editor usage (e.g. Atom or Brackets)
- * Markdown or HTML basics
- * Understanding folder hierarchies (i.e. relative links)
- * Web server access
- * GitHub working knowledge (recommended)
+* Code editor usage (e.g. Atom or Brackets)
+* Markdown or HTML basics
+* Understanding folder hierarchies (i.e. relative links)
+* Web server access
+* GitHub working knowledge (recommended)
 
 ---
 
