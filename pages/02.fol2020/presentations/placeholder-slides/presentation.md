@@ -60,12 +60,14 @@ title: Developing and Sharing OER with Grav
 
 # Key Aspects of Grav
 
+* Markdown
+ * A platform-independent format perfect for writing and the 5Rs
 * File-based
  * Fast performance (esp. smaller sites), simplicity, portability and generally more secure
  * File-based content naturally supports version control
  * Can serve as a front-end for a collaborative Git repository
-* Markdown
- * A platform-independent format perfect for writing and the 5Rs
+* Workflow
+ * Supports an efficient edit and publish workflow (esp. Git-based)
 * Modular
  * Modular content is possible, along with custom content types
 * Customization
