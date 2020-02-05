@@ -91,7 +91,6 @@ title: Developing and Sharing OER with Grav
 
 ---
 
-
 [.background-color: #618B25]
 
 # _Why is Grav OER Friendly?_
@@ -107,32 +106,27 @@ title: Developing and Sharing OER with Grav
 
 ---
 
-[.background-color: #618B25]
-
-# _Markdown_
-
----
-
 # What is Markdown?
 
 Markdown is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
 
 ---
 
-[.background-color: #FFFFFF]
+# Markdown Examples
 
-![fit](https://docs.joeworkman.net/assets/rapidweaver/stacks/markdown/markdown-basic-setup1.png)
+```
+# Your H1 Text Here
 
----
+## Your H2 Text Here
 
-[.background-color: #FFFFFF]
+_your italic text here_
 
-![fit](https://hibbittsdesign.org/images/future-friendly.jpg)
+**your bold text here**
 
----
+* your unordered list item here
 
-[data-background-iframe="https://dillinger.io/"]
-[data-background-interactive]
+ 1. your numbered (and indented) list item here
+```
 
 ---
 
@@ -142,7 +136,7 @@ Markdown is a syntax to format the display of content stored as plain text - sim
 
 ---
 
-# What is Git (e.g. GitHub)?
+# What is Git?
 
 Git is a distributed version-control system for tracking file changes during software development
 
@@ -168,12 +162,68 @@ Git is a distributed version-control system for tracking file changes during sof
 
 [.background-color: #618B25]
 
+# _More about Markdown_
+
+---
+
+[.background-color: #FFFFFF]
+
+![fit](https://docs.joeworkman.net/assets/rapidweaver/stacks/markdown/markdown-basic-setup1.png)
+
+---
+
+[data-background-iframe="https://dillinger.io/"]
+[data-background-interactive]
+
+---
+
+[.background-color: #618B25]
+
+# _GitHub and GitHub Desktop_
+
+---
+
+# GitHub
+
+GitHub, and other Web services like GitLab, Gitea, BitBucket etc. all use Git behind the scenes
+
+---
+
+# GitHub Desktop
+
+[.background-color: #FFFFFF]
+
+![fit](https://desktop.github.com/images/github-desktop-screenshot-mac.png)
+
+---
+
+[data-background-iframe="https://desktop.github.com/"]
+[data-background-interactive]
+
+---
+
+[.background-color: #618B25]
+
 # _Grav Skeleton Packages_
+
+---
+
+# What is a "Grav Skeleton"?
+
+A Grav skeleton is an ready-to-run package containing a complete Grav site with example content.
 
 ---
 
 [data-background-iframe="https://getgrav.org/downloads/skeletons"]
 [data-background-interactive]
+
+---
+
+# Run Grav Locally with MAMP
+
+MAMP is an Mac or Windows app that let you run PHP apps (e.g. Grav) locally on your own computer.
+
+Available for download at [mamp.info](https://mamp.info)
 
 ---
 
