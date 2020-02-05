@@ -245,12 +245,6 @@ Available for download at [mamp.info](https://mamp.info)
 
 ---
 
-[.background-color: #618B25]
-
-# _Next Steps_
-
----
-
 # Thank you. Final Q&A Time!
 Contact Info
 * Projects + Blog: [hibbittsdesign.org](https://hibbittsdesign.org)
