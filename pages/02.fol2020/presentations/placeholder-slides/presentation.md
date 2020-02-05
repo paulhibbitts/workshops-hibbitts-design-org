@@ -77,11 +77,12 @@ title: Developing and Sharing OER with Grav
 
 # What Skills are Required?
 
-* Code editor usage (e.g. Atom or Brackets)
-* Markdown or HTML basics
-* Understanding folder hierarchies (i.e. relative links)
-* Web server access
-* GitHub working knowledge (recommended)
+* Intended for 'Tech-savvy' Educators and Publishers
+ * Code editor usage (e.g. Atom or Brackets)
+ * Markdown or HTML basics
+ * Understanding folder hierarchies (i.e. relative links)
+ * Web server access
+ * GitHub working knowledge (recommended)
 
 ---
 
