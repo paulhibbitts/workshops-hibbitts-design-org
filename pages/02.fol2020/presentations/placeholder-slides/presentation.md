@@ -58,6 +58,14 @@ title: Developing and Sharing OER with Grav
 
 ---
 
+# Grav Requirements
+
+* Web Server
+* PHP 7.2 higher
+* _and that's it!_
+
+---
+
 # Key Aspects of Grav
 
 * Markdown
@@ -216,6 +224,14 @@ A Grav skeleton is an ready-to-run package containing a complete Grav site with 
 
 [data-background-iframe="https://getgrav.org/downloads/skeletons"]
 [data-background-interactive]
+
+---
+
+# Installing a Grav Skeleton
+
+1. Download/Upload ZIP file
+2. Expand ZIP file
+3. View folder in Browser (your done!)
 
 ---
 
