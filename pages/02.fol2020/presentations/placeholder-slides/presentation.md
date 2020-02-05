@@ -233,6 +233,8 @@ A Grav skeleton is an ready-to-run package containing a complete Grav site with 
 2. Expand ZIP file
 3. View folder in Browser (your done!)
 
+Some Webhosts also provide one-click installers (i.e. Reclaim Hosting🎉)
+
 ---
 
 # Run Grav Locally with MAMP
