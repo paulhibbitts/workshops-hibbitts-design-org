@@ -58,7 +58,7 @@ title: Developing and Sharing OER with Grav
 
 * Web Server
 * PHP 7.2 higher
-* _and that's it!_
+* _...and that's it!_
 
 ---
 
@@ -148,6 +148,12 @@ Git is a distributed version-control system for tracking file changes during sof
 
 [.background-color: #FFFFFF]
 
+![fit](https://git-scm.com/about)
+
+---
+
+[.background-color: #FFFFFF]
+
 ![fit](https://hibbittsdesign.org/images/grav-publishing.jpg)
 
 ---
@@ -226,6 +232,11 @@ GitHub, and other Web services like GitLab, Gitea, BitBucket etc. all use Git be
 
 ---
 
+[data-background-iframe="https://help.github.com/en/desktop/getting-started-with-github-desktop"]
+[data-background-interactive]
+
+---
+
 [.background-color: #618B25]
 
 # _Grav Skeleton Packages_
@@ -249,7 +260,7 @@ A Grav skeleton is an ready-to-run package containing a complete Grav site with 
 2. Expand ZIP file
 3. View folder in Browser (your done!)
 
-Some Webhosts also provide one-click installers (i.e. Reclaim Hosting🎉)
+Some Web hosts also provide one-click installers (i.e. Reclaim Hosting🎉)
 
 ---
 
@@ -257,7 +268,7 @@ Some Webhosts also provide one-click installers (i.e. Reclaim Hosting🎉)
 
 MAMP is an Mac or Windows app that let you run PHP apps (e.g. Grav) locally on your own computer.
 
-Available for download at [mamp.info](https://mamp.info)
+Available for download at [mamp.info/en/downloads/](https://www.mamp.info/en/downloads/)
 
 ---
 
