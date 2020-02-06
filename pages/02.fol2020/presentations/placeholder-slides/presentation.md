@@ -184,6 +184,13 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
+# Personal Favorites
+
+* Atom.io
+* Typora
+
+---
+
 [data-background-iframe="https://dillinger.io/"]
 [data-background-interactive]
 
