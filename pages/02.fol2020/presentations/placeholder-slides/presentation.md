@@ -3,15 +3,10 @@ title: Developing and Sharing OER with Grav
 
 ---
 
-[.text: alignment(center)]
-
 # Developing and Sharing OER with Grav
 
-### Placeholder Slides
-
-> “A work in progress. And the possibilities are endless.”
--- Elizabeth Eulberg
-
+#### Paul Hibbitts
+#### [hibbittsdesign.org](https://hibbittsdesign.org)
 ---
 
 # Topics to Explore
