@@ -146,9 +146,8 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
-[.background-color: #FFFFFF]
-
-![fit](https://git-scm.com/about)
+[data-background-iframe="https://guides.github.com/introduction/git-handbook/"]
+[data-background-interactive]
 
 ---
 
