@@ -174,9 +174,8 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
-[.background-color: #FFFFFF]
-
-![fit](https://docs.joeworkman.net/assets/rapidweaver/stacks/markdown/markdown-basic-setup1.png)
+[data-background-iframe="https://www.markdownguide.org/cheat-sheet/"]
+[data-background-interactive]
 
 ---
 
