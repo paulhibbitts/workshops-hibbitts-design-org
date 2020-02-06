@@ -91,7 +91,7 @@ title: Developing and Sharing OER with Grav
 
 # What Skills are Required?
 
-* Code editor usage (e.g. Atom or Brackets)
+* Code editor usage (e.g. Brackets or Atom)
 * Markdown or HTML basics
 * Understanding folder hierarchies (i.e. relative links)
 * Web server access
@@ -179,7 +179,7 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
-[data-background-iframe="https://flight-manual.atom.io/"]
+[data-background-iframe="http://brackets.io/"]
 [data-background-interactive]
 
 ---
