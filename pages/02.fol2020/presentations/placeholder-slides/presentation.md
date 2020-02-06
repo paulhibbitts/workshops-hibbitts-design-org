@@ -174,12 +174,12 @@ Git is a distributed version-control system for tracking file changes during sof
 
 ---
 
-[data-background-iframe="https://www.markdownguide.org/cheat-sheet/"]
+[data-background-iframe="https://devhints.io/markdown"]
 [data-background-interactive]
 
 ---
 
-[data-background-iframe="https://atom.io/"]
+[data-background-iframe="https://flight-manual.atom.io/"]
 [data-background-interactive]
 
 ---
