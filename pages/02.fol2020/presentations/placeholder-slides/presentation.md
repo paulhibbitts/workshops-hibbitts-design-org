@@ -231,11 +231,6 @@ GitHub, and other Web services like GitLab, Gitea, BitBucket etc. all use Git be
 
 ---
 
-[data-background-iframe="https://help.github.com/en/desktop/getting-started-with-github-desktop"]
-[data-background-interactive]
-
----
-
 [.background-color: #618B25]
 
 # _Grav Skeleton Packages_
