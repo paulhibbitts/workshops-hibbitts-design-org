@@ -66,7 +66,7 @@ title: Developing and Sharing OER with Grav
 
 ---
 
-# Key Aspects of Grav
+# Some Key Aspects of Grav
 
 * Markdown
  * A platform-independent format perfect for writing and the 5Rs
