@@ -206,6 +206,8 @@ GitHub, and other Web services like GitLab, Gitea, BitBucket etc. all use Git be
 
 # GitHub Desktop
 
+---
+
 [.background-color: #FFFFFF]
 
 ![fit](https://desktop.github.com/images/github-desktop-screenshot-mac.png)
