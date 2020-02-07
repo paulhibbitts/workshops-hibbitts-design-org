@@ -67,6 +67,7 @@ published: true
 * [Git Tutorial](https://uclacgd.com/git-tutorial/)
 * [Getting your project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
 * [How writers can get work done better with Git](https://opensource.com/article/19/4/write-git)
+* [Why Git for your organization](https://atlassian.com/git/tutorials/why-git)
 
 ### Workshops  
 * [A Friendly Github Intro Workshop](https://kirstiejane.github.io/friendly-github-intro/)  
