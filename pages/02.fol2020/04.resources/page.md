@@ -67,6 +67,7 @@ published: true
 * [Git Tutorial](https://uclacgd.com/git-tutorial/)
 * [Getting your project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
 * [How writers can get work done better with Git](https://opensource.com/article/19/4/write-git)
+* [The easiest GitHub tutorial ever](https://towardsdatascience.com/the-easiest-github-tutorial-ever-4a3aa0396039)
 * [Why Git for your organization](https://atlassian.com/git/tutorials/why-git)
 
 ### Workshops  
@@ -83,7 +84,7 @@ published: true
 ## GitHub Desktop
 
 ### Articles  
-* [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/lessons/getting-started-with-github-desktop)  
+* [Intro to GitHub Desktop](https://medium.com/@greyhatlinux/intro-to-github-desktop-44b4e23b0dee)  
 
 ### GitHub Desktop Quick Intro For Windows   
 [plugin:youtube](https://www.youtube.com/watch?v=77W2JSL7-r8)
