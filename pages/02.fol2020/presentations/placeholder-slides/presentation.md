@@ -9,7 +9,11 @@ title: Developing and Sharing OER with Grav
 ##### [hibbittsdesign.org](https://hibbittsdesign.org)
 ##### [[fa icon="twitter"]@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/CC-BY-SA_icon_white.svg" style="width: auto; border: 0px; margin: 0 auto 0 0;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/CC-BY-SA_icon_white.svg" style="
+    width: auto;
+    border: 0px;
+    margin: 0 auto 0 0;
+">
 
 ---
 
