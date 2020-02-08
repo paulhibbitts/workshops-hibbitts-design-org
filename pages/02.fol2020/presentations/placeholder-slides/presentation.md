@@ -8,6 +8,9 @@ title: Developing and Sharing OER with Grav
 #### Paul Hibbitts
 ##### [hibbittsdesign.org](https://hibbittsdesign.org)
 ##### [[fa icon="twitter"]@hibbittsdesign](https://twitter.com/hibbittsdesign)  
+
+<img src="https://licensebuttons.net/l/by/3.0/88x31.png">
+
 ---
 
 # Topics to Explore
