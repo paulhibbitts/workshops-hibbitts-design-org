@@ -11,6 +11,7 @@ title: Developing and Sharing OER with Grav
 
 <img src="https://licensebuttons.net/l/by/3.0/88x31.png" style="
     width: auto;
+    border: 0;
     margin: 0 auto 0 0;
 ">
 
