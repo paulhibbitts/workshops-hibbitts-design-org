@@ -85,6 +85,7 @@ published: true
 
 ### Articles  
 * [Intro to GitHub Desktop](https://medium.com/@greyhatlinux/intro-to-github-desktop-44b4e23b0dee)  
+[Getting started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
 
 ### GitHub Desktop Quick Intro For Windows   
 [plugin:youtube](https://www.youtube.com/watch?v=77W2JSL7-r8)
